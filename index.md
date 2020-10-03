@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 'IDK. What Do You Want for Dinner?': A Dinnertime Decision Assistant
 
-You can use the [editor on GitHub](https://github.com/dgwalkerii1231/dgwCIS280finalapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+When you're wiped out on a Friday from a hard week's work, and you don't have two neurons to rub together, you may need a little help making the week's last big decision: What do we want for dinner?  This app will help your family decide what to have for your Friday dinner.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This app is for the busy professional or couple who are just too burned out at the end of the week to make one more decision.  For the couple who struggles with deciding what's for dinner on Friday evenings.
+
+
 
 ### Markdown
 
